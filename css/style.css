@@ -1,0 +1,15 @@
+#title {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#btn {
+    transition: .5s all !important;
+    font-size: 14px;
+}
+#btn:hover {
+    background-color: rgb(2, 128, 0);
+}
